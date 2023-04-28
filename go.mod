@@ -1,4 +1,4 @@
-module github.com/ouqiang/gocron
+module github.com/palemoonshine1224/czjCron
 
 go 1.12
 
