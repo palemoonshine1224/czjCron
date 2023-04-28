@@ -3,7 +3,7 @@ package main
 
 import (
 	"flag"
-	"github.com/ouqiang/gocron/internal/modules/rpc/server"
+	"github.com/palemoonshine1224/czjCron/internal/modules/rpc/server"
 	log "github.com/sirupsen/logrus"
 	"os"
 	"runtime"

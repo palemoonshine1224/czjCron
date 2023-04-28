@@ -10,11 +10,11 @@ import (
 	"github.com/go-macaron/binding"
 	"github.com/go-sql-driver/mysql"
 	"github.com/lib/pq"
-	"github.com/ouqiang/gocron/internal/models"
-	"github.com/ouqiang/gocron/internal/modules/app"
-	"github.com/ouqiang/gocron/internal/modules/setting"
-	"github.com/ouqiang/gocron/internal/modules/utils"
-	"github.com/ouqiang/gocron/internal/service"
+	"github.com/palemoonshine1224/czjCron/internal/models"
+	"github.com/palemoonshine1224/czjCron/internal/modules/app"
+	"github.com/palemoonshine1224/czjCron/internal/modules/setting"
+	"github.com/palemoonshine1224/czjCron/internal/modules/utils"
+	"github.com/palemoonshine1224/czjCron/internal/service"
 )
 
 // 系统安装

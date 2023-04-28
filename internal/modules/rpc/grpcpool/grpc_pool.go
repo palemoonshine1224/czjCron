@@ -2,7 +2,7 @@ package grpcpool
 
 import (
 	"context"
-	"github.com/ouqiang/gocron/internal/modules/rpc/proto"
+	"github.com/palemoonshine1224/czjCron/internal/modules/rpc/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 	"sync"

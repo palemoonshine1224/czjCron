@@ -3,11 +3,11 @@ package tasklog
 // 任务日志
 
 import (
-	"github.com/ouqiang/gocron/internal/models"
-	"github.com/ouqiang/gocron/internal/modules/logger"
-	"github.com/ouqiang/gocron/internal/modules/utils"
-	"github.com/ouqiang/gocron/internal/routers/base"
-	"github.com/ouqiang/gocron/internal/service"
+	"github.com/palemoonshine1224/czjCron/internal/models"
+	"github.com/palemoonshine1224/czjCron/internal/modules/logger"
+	"github.com/palemoonshine1224/czjCron/internal/modules/utils"
+	"github.com/palemoonshine1224/czjCron/internal/routers/base"
+	"github.com/palemoonshine1224/czjCron/internal/service"
 	"gopkg.in/macaron.v1"
 )
 

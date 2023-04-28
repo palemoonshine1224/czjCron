@@ -5,10 +5,10 @@ import (
 	"path/filepath"
 
 	"fmt"
-	"github.com/ouqiang/gocron/internal/modules/logger"
-	"github.com/ouqiang/gocron/internal/modules/setting"
-	"github.com/ouqiang/gocron/internal/modules/utils"
 	"github.com/ouqiang/goutil"
+	"github.com/palemoonshine1224/czjCron/internal/modules/logger"
+	"github.com/palemoonshine1224/czjCron/internal/modules/setting"
+	"github.com/palemoonshine1224/czjCron/internal/modules/utils"
 )
 
 var (
